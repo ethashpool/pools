@@ -58,6 +58,16 @@
  		"miners":"https://nilu.pool.so/api/miners",
  		"url":"nilu.pool.so",
  		"notify":""
+	},
+	   	{
+ 		"name":"ethash.farm",
+ 		"stats":"https://nilu.ethash.farm/api/stats",
+ 		"blocks":"https://nilu.ethash.farm/api/blocks",
+ 		"payments":"https://nilu.ethash.farm/api/payments",
+ 		"accounts":"https://nilu.ethash.farm/api/accounts",
+ 		"miners":"https://nilu.ethash.farm/api/miners",
+ 		"url":"nilu.ethash.farm",
+ 		"notify":""
 	}
   ]
   
