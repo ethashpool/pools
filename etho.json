@@ -68,5 +68,15 @@
  		"miners":"http://ether1.ethashmines.com/api/miners",
  		"url":"ether1.ethashmines.com",
  		"notify":""
+	},
+		{
+ 		"name":"Ethash SOLO",
+ 		"stats":"https://solo-ether1.ethash.farm/api/stats",
+ 		"blocks":"https://solo-ether1.ethash.farm/api/blocks",
+ 		"payments":"https://solo-ether1.ethash.farm/api/payments",
+ 		"accounts":"https://solo-ether1.ethash.farm/api/accounts",
+ 		"miners":"https://solo-ether1.ethash.farm/api/miners",
+ 		"url":"solo-ether1.ethash.farm",
+ 		"notify":""
 	}
   ]
