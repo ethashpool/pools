@@ -58,5 +58,15 @@
 		"miners":"https://vic.pool.sexy/api/miners",
 		"url":"vic.pool.sexy",
 		"notify":""
+	},
+	{
+ 		"name":"ethash.farm SOLO",
+ 		"stats":"https://solo-vic.ethash.farm/api/stats",
+ 		"blocks":"https://solo-vic.ethash.farm/api/blocks",
+ 		"payments":"https://solo-vic.ethash.farm/api/payments",
+ 		"accounts":"https://solo-vic.ethash.farm/api/accounts",
+ 		"miners":"https://solo-vic.ethash.farm/api/miners",
+ 		"url":"solo-vic.ethash.farm",
+ 		"notify":""
 	}
 ]
